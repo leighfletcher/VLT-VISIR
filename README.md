@@ -60,7 +60,7 @@ following codes:
 | 2022-12-24 | - | -  | [Quicklook](quicklook/) | 110.23VW.002 | 
 | 2022-11-16 | - | -  | [Quicklook](quicklook/) | 110.23VW.002 | 
 | 2022-10-31 | - | -  | [Quicklook](quicklook/) | 110.23VW.002 | 
-| 2022-08-08 | Great Red Spot | -  | [Quicklook](quicklook/) | 108.223F.001 | 
+| 2022-08-08 | Great Red Spot | [Harkett+2024](https://doi.org/10.1029/2024JE008415)  | [Quicklook](quicklook/2022-08-08T08:42:44.7602_Jupiter.clean.png) | 108.223F.001 | 
 | 2021-12-03 |  | -  | [Quicklook](quicklook/) | 108.223F.001 | 
 | 2021-11-26 | South near PJ38 | -  | [Quicklook](quicklook/) | 108.223F.002 | 
 | 2021-11-26 | North near PJ38 | -  | [Quicklook](quicklook/) | 108.223F.002 | 
