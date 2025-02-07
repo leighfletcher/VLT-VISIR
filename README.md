@@ -12,7 +12,7 @@ Jupiter is detected differentially on top of the sky background, so we have to b
 
 ## Data Processing
 
-Quick-look observations for each observing block are processed and stored here - the underlying data is available on request.  The following processing steps have been performed:
+Quick-look observations for each observing block are processed and stored here - the underlying data are available on request.  The following processing steps have been performed:
 1. Reconstruct the image by combining chops and nods.
 1. Use `Planetmapper` to fit the limb and assign geometry.
 1. Window the detector, separating the two halves (master and slave).
@@ -21,6 +21,10 @@ Quick-look observations for each observing block are processed and stored here -
 1. Shift and add back in the negative beam, flagging regions of imperfect limb correction.
 
 In the quick-look images, you'll see two white regions:  the removed central row; and the region omitted due to imperfect correction of the negative beam.  Data "interior" to the limb arc should be treated with caution, it is corrected for aesthetic purposes and should not be used for science.  
+
+## Credit
+
+Original data processing codes were written in IDL by L.N. Fletcher, P.T. Donnelly, D. Bardet and A. Antunano at the University of Leicester, and converted to Python by Fletcher.  The code uses the `PlanetMapper` software developed by O.R.T. King.
 
 ## Wavelengths
 
