@@ -51,7 +51,6 @@ following codes:
 | 2025-01-24 | South SEB Outbreak | -  | [Quicklook](quicklook/2025-01-24T01:42:49.1527_Jupiter.clean.png) | 114.277Q.002 |
 | 2024-10-16 | North near PJ66 | -  | [Quicklook](quicklook/2024-10-16T07:20:52.0554_Jupiter.clean.png) | 114.277Q.001 |
 | 2024-08-16 | North near PJ64 | -  | [Quicklook](quicklook/2024-08-16T09:20:57.3214_Jupiter.clean.png) | 113.267Y.002 | 
-
 | 2022-12-30 | - | -  | [Quicklook](quicklook/) | 110.23VW.002 | 
 | 2022-12-25 | - | -  | [Quicklook](quicklook/) | 110.23VW.002 | 
 | 2022-12-24 | - | -  | [Quicklook](quicklook/) | 110.23VW.002 | 
@@ -59,7 +58,6 @@ following codes:
 | 2022-10-31 | - | -  | [Quicklook](quicklook/) | 110.23VW.002 | 
 | 2022-08-08 | Great Red Spot | -  | [Quicklook](quicklook/) | 108.223F.001 | 
 | 2021-12-03 |  | -  | [Quicklook](quicklook/) | 108.223F.001 | 
-
 | 2021-11-26 | South near PJ38 | -  | [Quicklook](quicklook/) | 108.223F.002 | 
 | 2021-11-26 | North near PJ38 | -  | [Quicklook](quicklook/) | 108.223F.002 | 
 | 2021-11-22 |  | -  | [Quicklook](quicklook/) | 108.223F.001 | 
@@ -67,7 +65,6 @@ following codes:
 | 2021-11-18 |  | -  | [Quicklook](quicklook/) | 108.223F.001 | 
 | 2021-11-15 |  | -  | [Quicklook](quicklook/) | 108.223F.001 | 
 | 2021-11-09 |  | -  | [Quicklook](quicklook/) | 108.223F.001 | 
-
 | 2018-09-12 | North near PJ16 | -  | [Quicklook](quicklook/) |0101.C-0073(C) |
 | 2018-09-09 | North near PJ16 | -  | [Quicklook](quicklook/) |0101.C-0073(C) |
 | 2018-07-31 | North near PJ14 | -  | [Quicklook](quicklook/) |0101.C-0073(B) |
