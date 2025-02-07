@@ -43,10 +43,11 @@ following codes:
 
 ## Data Record
 
-| Date | Comment | Publication | Quicklook |
-|------|------|------|---|
-| 2025-01-27 | South near PJ69 | -  | [Quicklook](quicklook/2025-01-27T00:41:49.0755_Jupiter.clean.png)  |
-| 2025-01-27 | North near PJ69 | -  | [Quicklook](quicklook/2025-01-27T02:37:32.5628_Jupiter.clean.png)  |
-| 2025-01-25 | South near PJ69 | -  | [Quicklook](quicklook/2025-01-25T01:25:10.4793_Jupiter.clean.png)  |
-| 2025-01-24 | South SEB Outbreak | -  | [Quicklook](quicklook/2025-01-24T01:42:49.1527_Jupiter.clean.png)
-
+| Date | Comment | Publication | Quicklook | Programme |
+|------|------|------|------|------|
+| 2025-01-27 | South near PJ69 | -  | [Quicklook](quicklook/2025-01-27T00:41:49.0755_Jupiter.clean.png)  | 114.277Q.001 |
+| 2025-01-27 | North near PJ69 | -  | [Quicklook](quicklook/2025-01-27T02:37:32.5628_Jupiter.clean.png)  | 114.277Q.002 |
+| 2025-01-25 | South near PJ69 | -  | [Quicklook](quicklook/2025-01-25T01:25:10.4793_Jupiter.clean.png)  | 114.277Q.001 |
+| 2025-01-24 | South SEB Outbreak | -  | [Quicklook](quicklook/2025-01-24T01:42:49.1527_Jupiter.clean.png) | 114.277Q.002 |
+| 2024-10-16 | North near PJ66 | -  | [Quicklook](quicklook/2024-10-16T07:20:52.0554_Jupiter.clean.png) | 114.277Q.001 |
+| 2024-08-16 | North near PJ64 | -  | [Quicklook](quicklook/2024-08-16T09:20:57.3214_Jupiter.clean.png) | 113.267Y.002 | 
