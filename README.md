@@ -40,3 +40,13 @@ following codes:
 * NEII_2 - (13.0 micron) - primarily sensing tropospheric temperature in the 300-500 mbar region.
 
 * Q1, Q2 and Q3 (17.6, 18.7 and 19.5 micron) - sensing tropospheric temperature in the 100-300 mbar range.
+
+## Data Record
+
+| Date | Comment | Publication | Quicklook |
+|---|---|---|---|
+| 2025-01-27 | South near PJ69 | -  | ![Quicklook](quicklook/2025-01-27T00:41:49.0755_Jupiter.clean.png)  |
+| 2025-01-27 | North near PJ69 | -  | ![Quicklook](quicklook/2025-01-27T02:37:32.5628_Jupiter.clean.png)  |
+| 2025-01-25 | South near PJ69 | -  | ![Quicklook](quicklook/2025-01-25T01:25:10.4793_Jupiter.clean.png)  |
+| 2025-01-24 | South SEB Outbreak | -  | ![Quicklook](quicklook/2025-01-24T01:42:49.1527_Jupiter.clean.png)
+
