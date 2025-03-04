@@ -49,6 +49,7 @@ following codes:
 
 | Date | Comment | Publication | Quicklook | Programme |
 |------|------|------|------|------|
+| 2025-03-04 | North near PJ70 | -  | [Quicklook](quicklook/2025-03-04T00:00:05.4892_Jupiter.clean.png)  | 114.277Q.003 |
 | 2025-01-27 | South near PJ69 | -  | [Quicklook](quicklook/2025-01-27T00:41:49.0755_Jupiter.clean.png)  | 114.277Q.001 |
 | 2025-01-27 | North near PJ69 | -  | [Quicklook](quicklook/2025-01-27T02:37:32.5628_Jupiter.clean.png)  | 114.277Q.002 |
 | 2025-01-25 | South near PJ69 | -  | [Quicklook](quicklook/2025-01-25T01:25:10.4793_Jupiter.clean.png)  | 114.277Q.001 |
