@@ -75,6 +75,7 @@ following codes:
 | 2018-07-31 | North near PJ14 | -  | [Quicklook](quicklook/) |0101.C-0073(B) |
 | 2018-07-14 | North near PJ14 | -  | [Quicklook](quicklook/) |0101.C-0073(B) |
 
+| 2016-08-01 | South near PJ1 | -  | [Quicklook](quicklook/2016-08-01T22:52:23.8739_Jupiter.clean.png) | 097.C-0222(B) |
 <!-- |  | - | -  | [Quicklook](quicklook/) |  | 
 |  | - | -  | [Quicklook](quicklook/) |  | 
 |  | - | -  | [Quicklook](quicklook/) |  | 
