@@ -56,8 +56,8 @@ following codes:
 | 2026-03-16 | North near PJ82 | -  | [Quicklook](quicklook/2026-03-16T01:00:13.6337_Jupiter.clean.png)  | 116.28N4.002 |
 | 2026-03-11 | M-band lucky imaging near PJ82 | -  |   | 116.28N4.002 |
 | 2026-02-15 | North near PJ81 | -  | -  | 116.28N4.001 |
-| 2025-12-03 | North near PJ77 | -  | -  | 116.28N4.001 |
-| 2025-11-26 | South near PJ77 | -  | -  | 116.28N4.001 |
+| 2025-12-03 | North near PJ78 | -  | -  | 116.28N4.001 |
+| 2025-11-26 | South near PJ78 | -  | -  | 116.28N4.001 |
 | 2025-03-04 | North near PJ70 | -  | [Quicklook](quicklook/2025-03-04T00:00:05.4892_Jupiter.clean.png)  | 114.277Q.003 |
 | 2025-01-27 | South near PJ69 | -  | [Quicklook](quicklook/2025-01-27T00:41:49.0755_Jupiter.clean.png)  | 114.277Q.001 |
 | 2025-01-27 | North near PJ69 | -  | [Quicklook](quicklook/2025-01-27T02:37:32.5628_Jupiter.clean.png)  | 114.277Q.002 |
