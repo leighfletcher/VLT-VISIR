@@ -49,6 +49,15 @@ following codes:
 
 | Date | Comment | Publication | Quicklook | Programme |
 |------|------|------|------|------|
+| 2026-04-20 | South near PJ83 | -  | -  | 116.28N4.003 |
+| 2026-04-20 | M-band lucky imaging near PJ83 | -  |   | 116.28N4.002 |
+| 2026-04-13 | South near PJ82 | -  | - | 116.28N4.002 |
+| 2026-03-20 | South near PJ82 | -  | [Quicklook](quicklook/2026-03-20T01:03:03.5379_Jupiter.clean.png)  | 116.28N4.002 |
+| 2026-03-16 | North near PJ82 | -  | [Quicklook](quicklook/2026-03-16T01:00:13.6337_Jupiter.clean.png)  | 116.28N4.002 |
+| 2026-03-11 | M-band lucky imaging near PJ82 | -  |   | 116.28N4.002 |
+| 2026-02-15 | North near PJ81 | -  | -  | 116.28N4.001 |
+| 2025-12-03 | North near PJ77 | -  | -  | 116.28N4.001 |
+| 2025-11-26 | South near PJ77 | -  | -  | 116.28N4.001 |
 | 2025-03-04 | North near PJ70 | -  | [Quicklook](quicklook/2025-03-04T00:00:05.4892_Jupiter.clean.png)  | 114.277Q.003 |
 | 2025-01-27 | South near PJ69 | -  | [Quicklook](quicklook/2025-01-27T00:41:49.0755_Jupiter.clean.png)  | 114.277Q.001 |
 | 2025-01-27 | North near PJ69 | -  | [Quicklook](quicklook/2025-01-27T02:37:32.5628_Jupiter.clean.png)  | 114.277Q.002 |
@@ -56,24 +65,24 @@ following codes:
 | 2025-01-24 | South SEB Outbreak | -  | [Quicklook](quicklook/2025-01-24T01:42:49.1527_Jupiter.clean.png) | 114.277Q.002 |
 | 2024-10-16 | North near PJ66 | -  | [Quicklook](quicklook/2024-10-16T07:20:52.0554_Jupiter.clean.png) | 114.277Q.001 |
 | 2024-08-16 | North near PJ64 | -  | [Quicklook](quicklook/2024-08-16T09:20:57.3214_Jupiter.clean.png) | 113.267Y.002 | 
-| 2022-12-30 | - | -  | [Quicklook](quicklook/) | 110.23VW.002 | 
-| 2022-12-25 | - | -  | [Quicklook](quicklook/) | 110.23VW.002 | 
-| 2022-12-24 | - | -  | [Quicklook](quicklook/) | 110.23VW.002 | 
-| 2022-11-16 | - | -  | [Quicklook](quicklook/) | 110.23VW.002 | 
-| 2022-10-31 | - | -  | [Quicklook](quicklook/) | 110.23VW.002 | 
+| 2022-12-30 | - | -  | - | 110.23VW.002 | 
+| 2022-12-25 | - | -  | - | 110.23VW.002 | 
+| 2022-12-24 | - | -  | - | 110.23VW.002 | 
+| 2022-11-16 | - | -  | - | 110.23VW.002 | 
+| 2022-10-31 | - | -  | - | 110.23VW.002 | 
 | 2022-08-08 | Great Red Spot | [Harkett+2024](https://doi.org/10.1029/2024JE008415)  | [Quicklook](quicklook/2022-08-08T08:42:44.7602_Jupiter.clean.png) | 108.223F.001 | 
-| 2021-12-03 |  | -  | [Quicklook](quicklook/) | 108.223F.001 | 
-| 2021-11-26 | South near PJ38 | -  | [Quicklook](quicklook/) | 108.223F.002 | 
-| 2021-11-26 | North near PJ38 | -  | [Quicklook](quicklook/) | 108.223F.002 | 
-| 2021-11-22 |  | -  | [Quicklook](quicklook/) | 108.223F.001 | 
-| 2021-11-19 |  | -  | [Quicklook](quicklook/) | 108.223F.001 | 
-| 2021-11-18 |  | -  | [Quicklook](quicklook/) | 108.223F.001 | 
-| 2021-11-15 |  | -  | [Quicklook](quicklook/) | 108.223F.001 | 
-| 2021-11-09 |  | -  | [Quicklook](quicklook/) | 108.223F.001 | 
-| 2018-09-12 | North near PJ16 | -  | [Quicklook](quicklook/) |0101.C-0073(C) |
-| 2018-09-09 | North near PJ16 | -  | [Quicklook](quicklook/) |0101.C-0073(C) |
-| 2018-07-31 | North near PJ14 | -  | [Quicklook](quicklook/) |0101.C-0073(B) |
-| 2018-07-14 | North near PJ14 | -  | [Quicklook](quicklook/) |0101.C-0073(B) |
+| 2021-12-03 |  | -  | - | 108.223F.001 | 
+| 2021-11-26 | South near PJ38 | -  | - | 108.223F.002 | 
+| 2021-11-26 | North near PJ38 | -  | - | 108.223F.002 | 
+| 2021-11-22 |  | -  | - | 108.223F.001 | 
+| 2021-11-19 |  | -  | - | 108.223F.001 | 
+| 2021-11-18 |  | -  | - | 108.223F.001 | 
+| 2021-11-15 |  | -  | - | 108.223F.001 | 
+| 2021-11-09 |  | -  | - | 108.223F.001 | 
+| 2018-09-12 | North near PJ16 | -  | - |0101.C-0073(C) |
+| 2018-09-09 | North near PJ16 | -  | - |0101.C-0073(C) |
+| 2018-07-31 | North near PJ14 | -  | - |0101.C-0073(B) |
+| 2018-07-14 | North near PJ14 | -  | - |0101.C-0073(B) |
 | 2016-08-01 | South near PJ1 | -  | [Quicklook](quicklook/2016-08-01T22:52:23.8739_Jupiter.clean.png) | 097.C-0222(B) |
 <!-- |  | - | -  | [Quicklook](quicklook/) |  | 
 |  | - | -  | [Quicklook](quicklook/) |  | 
